@@ -1,7 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System.Globalization;
+using IntelitraderTest.Distancia;
 using IntelitraderTest.Ofertas;
+
+// =============================================PRIMEIRA MAIN=======================================================
 
 OperacaoFactory LivroDeOperacoes = new OperacaoFactory();
 
@@ -29,3 +32,12 @@ while (i < entradas)
 
 Console.WriteLine($"==========Resultado==========");
 LivroDeOperacoes.ExibirOperacoes();
+
+
+// =============================================SEGUNDA MAIN=======================================================
+// int[] array1 = { -1, 5 };
+// int[] array2 = { 26, 6 };
+// Distancia distancia = new Distancia();
+// int menorDistancia = distancia.MenorDistancia(array1, array2);
+
+// Console.WriteLine($"menor distancia: {menorDistancia}");

@@ -21,7 +21,7 @@ namespace IntelitraderTest.Ofertas
 
         public void ExibirOperacao()
         {
-            Console.WriteLine($"{Posicao},{Valor.ToString("0.00")},{Quantidade}");
+            Console.WriteLine($"{Posicao},{Valor.ToString("0.00", System.Globalization.CultureInfo.InvariantCulture)},{Quantidade}");
         }
     }
 }
