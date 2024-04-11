@@ -1,0 +1,14 @@
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\bin\Debug\net8.0\IntelitraderTest.exe
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\bin\Debug\net8.0\IntelitraderTest.deps.json
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\bin\Debug\net8.0\IntelitraderTest.runtimeconfig.json
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\bin\Debug\net8.0\IntelitraderTest.dll
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\bin\Debug\net8.0\IntelitraderTest.pdb
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\IntelitraderTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\IntelitraderTest.AssemblyInfoInputs.cache
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\IntelitraderTest.AssemblyInfo.cs
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\IntelitraderTest.csproj.CoreCompileInputs.cache
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\IntelitraderTest.dll
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\refint\IntelitraderTest.dll
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\IntelitraderTest.pdb
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\IntelitraderTest.genruntimeconfig.cache
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\ref\IntelitraderTest.dll
