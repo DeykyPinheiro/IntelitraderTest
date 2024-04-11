@@ -12,3 +12,4 @@ C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\refint\Intelitra
 C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\IntelitraderTest.pdb
 C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\IntelitraderTest.genruntimeconfig.cache
 C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\ref\IntelitraderTest.dll
+C:\Users\pinheiro\_develop\c#\IntelitraderTest\obj\Debug\net8.0\IntelitraderTest.sourcelink.json

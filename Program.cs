@@ -33,11 +33,29 @@ while (i < entradas)
 Console.WriteLine($"==========Resultado==========");
 LivroDeOperacoes.ExibirOperacoes();
 
-
 // =============================================SEGUNDA MAIN=======================================================
-// int[] array1 = { -1, 5 };
-// int[] array2 = { 26, 6 };
-// Distancia distancia = new Distancia();
-// int menorDistancia = distancia.MenorDistancia(array1, array2);
+
+
+// int MenorDistancia(int[] arrayA, int[] arrayB)
+// {
+//     int menor = int.MaxValue;
+
+//     for (int i = 0; i < arrayA.Length; i++)
+//     {
+//         for (int j = 0; j < arrayB.Length; j++)
+//         {
+//             int distancia = Math.Abs(arrayA[i] - arrayB[j]);
+//             if (distancia < menor)
+//             {
+//                 menor = distancia;
+//             }
+//         }
+//     }
+//     return menor;
+// }
+
+// int[] array1 = { -1, 5, 10, 15, 20, 25, 30, 35, 40, 45 };
+// int[] array2 = { 26, 6, 16, 21, 26, 31, 36, 41, 46, 51 };
+// int menorDistancia = MenorDistancia(array1, array2);
 
 // Console.WriteLine($"menor distancia: {menorDistancia}");

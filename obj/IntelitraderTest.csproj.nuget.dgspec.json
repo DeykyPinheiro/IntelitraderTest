@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pinheiro\\_develop\\c#\\IntelitraderTest\\IntelitraderTest.csproj": {}
+    "C:\\Users\\pinheiro\\_develop\\c#\\IntelitraderTest\\IntelitraderTest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pinheiro\\_develop\\c#\\IntelitraderTest\\IntelitraderTest.csproj": {
+    "C:\\Users\\pinheiro\\_develop\\c#\\IntelitraderTest\\IntelitraderTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pinheiro\\_develop\\c#\\IntelitraderTest\\IntelitraderTest.csproj",
+        "projectUniqueName": "C:\\Users\\pinheiro\\_develop\\c#\\IntelitraderTest\\IntelitraderTest.csproj",
         "projectName": "IntelitraderTest",
-        "projectPath": "c:\\Users\\pinheiro\\_develop\\c#\\IntelitraderTest\\IntelitraderTest.csproj",
+        "projectPath": "C:\\Users\\pinheiro\\_develop\\c#\\IntelitraderTest\\IntelitraderTest.csproj",
         "packagesPath": "C:\\Users\\pinheiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pinheiro\\_develop\\c#\\IntelitraderTest\\obj\\",
+        "outputPath": "C:\\Users\\pinheiro\\_develop\\c#\\IntelitraderTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -30,11 +30,32 @@ namespace IntelitraderTest.Ofertas
 
         }
 
+
+        public void Ordenar(List<Operacao> list)
+        {
+            int i = 0;
+            Operacao aux;
+            while (i < list.Count - 1)
+            {
+                if (list[i].Posicao > list[i + 1].Posicao)
+                {
+                    aux = list[i];
+                    list[i] = list[i + 1];
+                    list[i + 1] = aux;
+                    i = 0;
+                }
+                else
+                {
+                    i++;
+                }
+            }
+        }
+
+
         public void ExibirOperacoes()
         {
-
-            var operacoesOrdenadas = ListaDeOperacoes.OrderBy(o => o.Posicao).ToList();
-            foreach (Operacao operacao in operacoesOrdenadas)
+            Ordenar(ListaDeOperacoes);
+            foreach (Operacao operacao in ListaDeOperacoes)
             {
                 operacao.ExibirOperacao();
             }
