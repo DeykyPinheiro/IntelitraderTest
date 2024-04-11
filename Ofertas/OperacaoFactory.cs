@@ -8,9 +8,9 @@ namespace IntelitraderTest.Ofertas
 
         public void NovaOperacao(Operacao operacao)
         {
-            Operacao operacaoExistente = ListaDeOperacoes.FirstOrDefault(o => o.Posicao == operacao.Posicao);
+            Operacao operacaoExistente = Encontrar(ListaDeOperacoes, operacao.Posicao);
 
-            // 0 = INSERIR  
+            // 0 = INSERIR
             if (operacao.Acao == 0 && operacaoExistente == null)
             {
                 ListaDeOperacoes.Add(operacao);
@@ -49,6 +49,20 @@ namespace IntelitraderTest.Ofertas
                     i++;
                 }
             }
+        }
+
+        public Operacao Encontrar(List<Operacao> list, int posicao)
+        {
+            int i = 0;
+            while (i < list.Count)
+            {
+                if (list[i].Posicao == posicao)
+                {
+                    return list[i];
+                }
+                i++;
+            }
+            return null;
         }
 
 
