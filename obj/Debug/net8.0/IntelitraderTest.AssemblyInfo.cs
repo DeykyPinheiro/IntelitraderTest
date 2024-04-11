@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntelitraderTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44c55a7af41520a5b65845d3f2409158fc4c04de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c685880d3933a50c4c83375245154abce79a7b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntelitraderTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntelitraderTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
